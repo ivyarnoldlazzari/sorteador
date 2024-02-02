@@ -16,6 +16,11 @@ body {
     min-height: 100vh;
 }
 
+img {
+    width: 400px;
+
+}
+
 h1 {
     color: #FFF;
     font-size: 80px;
