@@ -10,3 +10,6 @@ In this project, the user can draw a random number between two pre-defined numbe
 
 <h1>Layout:</h1>
 <img src="https://raw.githubusercontent.com/ivyarnoldlazzari/sorteador/master/assets/page.png"> 
+
+<h1>Deploy:</h1>
+https://sorteandoproject.netlify.app/
